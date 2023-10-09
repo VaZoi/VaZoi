@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @VaZoi
 - 👀 I’m interested in Software Development and Ethical Hacking
 - 🌱 I’m currently learning Software Development
-- 📫 How to reach me: zoi.vareti@gmail.com
