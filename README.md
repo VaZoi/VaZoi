@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VaZoi
-- 👀 I’m interested in Software Development and Ethical Hacking
+- 👀 I’m interested in Software Development and GEO GIS and Ethical Hacking
 - 🌱 I’m currently learning Software Development
